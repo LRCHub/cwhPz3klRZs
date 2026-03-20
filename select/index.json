@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "덕수궁 돌담길의 봄 Deoksugung Stonewall Walkway",
+  "base_artist": "YOONA",
+  "createdAt": "2026-03-20T14:53:45.191864Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "덕수궁 돌담길의 봄 (inst.)",
+      "artist": "润娥 feat. 10cm",
+      "has_synced": true,
+      "path": "select/01_덕수궁_돌담길의_봄_(inst.)_润娥_feat._10cm.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "덕수궁 돌담길의 봄",
+      "artist": "润娥 feat. 10cm",
+      "has_synced": true,
+      "path": "select/02_덕수궁_돌담길의_봄_润娥_feat._10cm.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "덕수궁 돌담길의 봄 (Feat. 10cm)",
+      "artist": "윤아 (YOONA)",
+      "has_synced": true,
+      "path": "select/03_덕수궁_돌담길의_봄_(Feat._10cm)_윤아_(YOONA).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "덕수궁 돌담길의 봄 (Feat. 10cm)",
+      "artist": "YOONA",
+      "has_synced": true,
+      "path": "select/04_덕수궁_돌담길의_봄_(Feat._10cm)_YOONA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "덕수궁 돌담길의 봄 (Feat. 10cm) (Inst.)",
+      "artist": "YOONA",
+      "has_synced": true,
+      "path": "select/05_덕수궁_돌담길의_봄_(Feat._10cm)_(Inst.)_YOONA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "덕수궁 돌담길의 봄 Deoksugung Stonewall Walkway (feat. 10cm)",
+      "artist": "YOONA",
+      "has_synced": false,
+      "path": "select/pl_01_덕수궁_돌담길의_봄_Deoksugung_Stonewall_Walkway_(feat._10cm)_YOONA.txt"
+    }
+  ]
+}
